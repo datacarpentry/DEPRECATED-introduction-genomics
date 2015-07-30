@@ -58,7 +58,7 @@ During the shell lesson we will go much more step-by-step, building our way thro
 ```cd ~/dc_sample_data/sra_metadata
 ```
 2. Display the contents of the SraRunTable.txt on your screen
-```cat SraRunTable.txt
+```$ cat SraRunTable.txt
 ```
 3. That's probably not too pretty, so lets view it in a little more organized a format
 ```
