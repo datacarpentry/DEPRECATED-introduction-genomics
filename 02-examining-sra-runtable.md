@@ -70,4 +70,9 @@ column -t SraRunTable.txt
 In the next lesson on the shell, we will be able to find out how to do a lot more with the shell, including what else the commands we have done can do. 
 
 
- 
+## Where to learn more
+
+#### About the Sequence Read Archive
+
+* You can learn more about the SRA by reading the [SRA Documentation](http://www.ncbi.nlm.nih.gov/Traces/sra/)
+* The best way to transfer a large SRA dataset is by using the [SRA Toolkit](http://www.ncbi.nlm.nih.gov/Traces/sra/?view=toolkit_doc)
