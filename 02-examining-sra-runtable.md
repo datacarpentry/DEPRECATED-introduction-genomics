@@ -2,7 +2,7 @@
 layout: lesson
 root: .
 title: examining SRA run table
-minutes: 5
+minutes: 20
 ---
 
 ## Learning Objectives 
@@ -49,7 +49,7 @@ After answering the question, you should avoid saving this file; we don't want t
 
 We are going to be doing our formal shell lesson next. However, we can already play with a few simple commands that have you thinking about how the shell can be useful tool in examining your dataset
 
-```At this point, please verify that you are working from the the XXXXXXX image where we have prestaged all the data for the rest of the lessons```
+```At this point, please verify that you are working from the the ami-6516b30e image where we have prestaged all the data for the rest of the lessons```
 
 
 During the shell lesson we will go much more step-by-step, building our way through every command before we use it. For this first command go ahead any copy and paste if you are just getting use to the shell. The other commands are short enough to type and follow. 
@@ -69,6 +69,18 @@ column -t SraRunTable.txt
 
 In the next lesson on the shell, we will be able to find out how to do a lot more with the shell, including what else the commands we have done can do. 
 
+## Data Description 
+
+For the purposes of this workshop, we will be working with 6 of the fastq reads used in this experiment. 
+
+|SRA Run Number|Clone|Generation|Clade|
+|--------------|-----|----------|-----|
+|SRR098028|REL1166A|2,000|?|
+|SRR098281|ZDB409|5,000|?|
+|SRR098283|ZDB446|15,000|UC|
+|SRR097977|CZB152|33,000|Cit+|
+|SRR098026|CZB154|33,000|Cit+|
+|SRR098027|CZB199|33,000|C1|
 
 ## Where to learn more
 
