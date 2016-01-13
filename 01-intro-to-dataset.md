@@ -26,15 +26,17 @@ Strains from generation 0 to generation 40,000 were sequenced, including ones th
 For the purposes of this workshop we're going to be working with 6 of the sequence reads from this experiment. We also made up genome sizes for each of the strains, to look at the relationship between Cit status and genome size.  **The genome sizes are not real data!!**
 
 
-|  SRA Run Number  | Clone  | Generation  | Cit  |  GenomeSize |
- | -------------- | ----- | ---------- | ----- | ----- |
- | SRR098028 | REL1166A | 2,000 | Unknown | 4.63 |
- | SRR098281 | ZDB409 | 5,000 | Unknown | 4.6 |
- | SRR098283 | ZDB446 | 15,000 | Cit- | 4.66 |
- | SRR097977 | CZB152 | 33,000 | Cit+ | 4.8 |
- | SRR098026 | CZB154 | 33,000 | Cit+ | 4.76 |
- | SRR098027 | CZB199 | 33,000 | Cit- | 4.59 |
+| SRA Run Number | Clone | Generation | Cit | GenomeSize |
+| -------------- | ----- | ---------- | ----- | ----- |
+| SRR098028 | REL1166A | 2,000 | Unknown | 4.63 |
+| SRR098281 | ZDB409 | 5,000 | Unknown | 4.6 |
+| SRR098283 | ZDB446 | 15,000 | Cit- | 4.66 |
+| SRR097977 | CZB152 | 33,000 | Cit+ | 4.8 |
+| SRR098026 | CZB154 | 33,000 | Cit+ | 4.76 |
+| SRR098027 | CZB199 | 33,000 | Cit- | 4.59 |
 
+
+<br>
 
 We want to be able to look at the genome size to see if there is a difference between genome size and the Cit status of the strain. We also want to analyze the sequences to figure out what changes occurred in genomes to make the strains Cit+. Ultimately, we will answer the questions:
 
