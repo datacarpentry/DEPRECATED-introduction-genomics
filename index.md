@@ -29,22 +29,6 @@ time, and with less pain. This is an introduction to the Genomics lessons.
 **Lesson Maintainers: {{page.maintainers | join: ', ' %}}**
 
 
-###Instructor's setup notes
-
-By default SQLite Manager opens in a separate window and it is not possible to zoom in to enlarge the font
-so that it is more readable, especially for students in the back rows.
-
-The way to do fix this is to:  
-1. Open the SQLite Manager  
-2. Click on the *Settings* button,   
-3. Chose *Start SQLite Manager in a new tab*.   
-You can then use **Ctrl - +** to zoom just like any other web page.
-
-
-
-<br>
-
-
 #### Lesson status: {{ page.status }}
 <!--
   [Information on Lesson Status Categories]()
