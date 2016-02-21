@@ -23,9 +23,9 @@ This section takes place on your own laptop - no need to open the shell or conne
 
 1. Access the Lenski dataset from the provided link: [http://www.ncbi.nlm.nih.gov/sra?term=SRA026813](http://www.ncbi.nlm.nih.gov/sra?term=SRA026813).  
 You will be presented with a page for the overall SRA accession SRA026813 - this is a collection of all the experimental data
-2. Click on the first entry ([ZDB30](http://www.ncbi.nlm.nih.gov/sra/SRX040669%5Baccn%5D)); this will take you to an a page for an SRX (Sequence Read eXperiment). Take a few minutes to examine some of the descriptions on the page
+2. Click on the first entry ([ZDB30](http://www.ncbi.nlm.nih.gov/sra/SRX040669%5Baccn%5D)); this will take you to a page for an SRX (Sequence Read eXperiment). Take a few minutes to examine some of the descriptions on the page
 3. Click on the ['All runs'](http://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP004752) link under where it says **Study**; this is a description of all of the NGS datasets related to the experiment.
-4. Go to the top of the page and **In the 'Total row'** you will see there are 37 runs, 10.15Gb data, and 16.45 Gbases of data. Click the 'RunInfo Table' button.
+4. Go to the top of the page and in the **Total** row you will see there are 37 runs, 10.15Gb data, and 16.45 Gbases of data. Click the 'RunInfo Table' button.
 
 We are not downloading any actual sequence data here! This is only a text file that fully describes the entire dataset
 
