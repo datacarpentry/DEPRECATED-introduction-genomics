@@ -6,8 +6,8 @@ minutes: 5
 ---
 
 ## Learning Objectives
-* Understand how and why we choose this dataset
-* Have a general idea of the experiment and its objectives
+* Describe the features of the dataset used in this workshop.
+* Describe the experiment done with the dataset including its objectives.
 
 ### Features of the dataset
 
