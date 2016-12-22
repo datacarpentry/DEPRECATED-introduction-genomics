@@ -4,6 +4,8 @@ root: .
 title: Introduction to Genomics Data Carpentry workshop
 minutes: 5
 ---
+# Learning Objectives
+* Summarize the learning objectives for the workshop.
 
 In this workshop, we're going to go from getting sequencing data back through to data analysis and visualization.  We'll go through
 
