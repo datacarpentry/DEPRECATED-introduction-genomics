@@ -7,9 +7,10 @@ minutes: 20
 
 ## Learning Objectives
 
-* Get a general understanding of the NCBI SRA
-* Understand how to download a summary run table of the SRA
-* Be able to open a run table using a spreadsheet editor
+* Access the NCBI Sequence Reading Archive (SRA) repository and describe its purpose.
+* Download sample summary sequence data from the SRA.
+* Use a spreadsheet editor to open a run table that describes the entire dataset.
+
 
 ## Lesson
 
